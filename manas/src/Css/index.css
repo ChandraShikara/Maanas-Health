@@ -1,0 +1,210 @@
+.li{
+    color:black;
+    font-size: 23.5px;
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+  }
+
+.nav h3{
+  font-family: 'Montserrat', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+
+  .profileh{
+ 
+    font-size: 30px;
+   font-family: 'Montserrat', sans-serif;
+   font-family: 'Raleway', sans-serif;
+   font-family: 'Roboto', sans-serif;
+  }
+
+  .p{
+    margin: 20px;
+    width: 100%;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  .outline2 p{
+    position: relative;
+    top: 10%;
+    left: 2.5%;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  .yourmentalh1{
+    position: fixed;
+    left: 33%;
+    top: 40%;
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Rouge Script', cursive;
+font-size: 90px;
+text-shadow:2px 2px whitesmoke;
+  }
+  .yourmentalh1:hover{
+    margin: 2px;
+    text-shadow:2px 2px rgb(95, 19, 201);
+  }
+  .yourmentalh2{
+    position: fixed;
+    left: 44%;
+    top: 57%;
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Rouge Script', cursive;
+font-size: 90px;
+text-shadow:2px 2px whitesmoke;
+
+  }
+  .yourmentalh2:hover{
+    margin: 2px;
+    text-shadow:2px 2px rgb(95, 19, 201);
+  }
+
+
+/*Home*/
+
+.hed dl{
+  margin: 5px;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+.uli{
+  margin:7px;
+  margin-left: 30px;
+  font-family: 'Montserrat', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+/*About us*/
+.about1{
+  border-style: solid;
+  padding: 20px;
+  width: 37vw;
+  height:590px ;
+  position: fixed;
+  left: 65px;
+  top: 79px;
+  border-radius: 20px;
+  border-width: 1px;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  padding: 10px;
+}
+
+.outerdivinhome2 div{
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-size: 27px;
+}
+
+.indivhome1{
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px;
+}
+/*X for close in hed1*/
+.hedclose1{
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  color: whitesmoke;
+ }
+
+
+ /*Questions*/
+ 
+.qt p{
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-size: 21px;
+}
+
+
+.pred{
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-size: 23px;
+}
+
+.Resshow{
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-size: 23px;
+}
+
+/*Awareness*/
+
+.adiv1 p{
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+
+/*Report*/
+
+.report{
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+
+/*aware*/
+.aware2 p{
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+}
+
+/*T-home*/
+.studentdetailsdiv{
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+
+.headerp{
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+
+/*forgot*/
+.fp{
+  font-size: 17px;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+
+.fp2{
+  font-size: 17px;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+
+.fp1{
+  font-size: 17px;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
