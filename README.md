@@ -45,9 +45,7 @@ To run this project locally:
 
 ### Installation
 
-1. **Clone the repo**:
-   ```bash
-   git clone https://github.com/ChandraShikara/Maanas-Health.git
+1. Clone the repo
 2. Navigate to the project folder:  cd Maanas-Health
 4. Install dependencies:  npm install
 5. Start the server: node server.js
